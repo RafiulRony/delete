@@ -1,4 +1,3 @@
 this is file three
 
-
-file3 confl
+merge conflict
